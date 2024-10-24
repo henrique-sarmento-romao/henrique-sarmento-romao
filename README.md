@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henrique Romão
-- 🎓 I'm a Bioengeneering Undergraduate, specializing in Biomedical Engineering
+- 🎓 I'm a Bioengeneering Graduate, specializing in Biomedical Engineering
 - 😄 Pronouns: He/Him
 
 <!---
