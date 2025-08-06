@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Henrique Romão
-- 🎓 I'm a Bioengeneering Graduate, specializing in Biomedical Engineering
-- 😄 Pronouns: He/Him
+Hi! I am Henrique Romão, a Biomedical Engineering Student Intern.
 
 <!---
 henrique-sarmento-romao/henrique-sarmento-romao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
